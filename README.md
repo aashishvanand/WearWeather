@@ -2,7 +2,7 @@
 
 This is an Android app that shows current weather and predicts climatic conditions for a particular pin code or area which could be changed in the settings. The weather data is provided by Openweathermap API. It includes a detailed view of Windspeed, direction , Pressure and humidity. This includes a watch face that is automatically installed in the android wear when the user installs Sunshine App on the phone.
 
-<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/circle.png"/>
+<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/circle.png" height=149 width =144/>
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/circle_ambient.png"/>
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/square.png"/>
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/square_ambient.png"/>
