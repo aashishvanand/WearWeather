@@ -13,7 +13,7 @@ This is an Android app that shows current weather and predicts climatic conditio
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/Screenshots/Screenshot_20161030-194215_framed.png" height=480 width =270/>
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/Screenshots/Screenshot_20161030-194220_framed.png" height=480 width =270/>
 
-<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/moto.jpeg" height=426.666666667 width =319/>
+<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/moto.jpeg" height=426.666666667 width =319/>  
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/moto_ambient.jpeg" height=426.666666667 width =319/>
 
 
@@ -40,10 +40,9 @@ Android Wear is an exciting way to integrate your app more directly into usersâ€
 
 ## Open Weather Map API Key is required.
 
-In order for the Sunshine app to function properly an API key for openweathermap.org must be included with the build.
-We recommend that each student obtain a key via the following [instructions](http://openweathermap.org/appid#use), and include the unique key for the build by adding the following line to [USER_HOME]/.gradle/gradle.properties
-`MyOpenWeatherMapApiKey="<UNIQUE_API_KEY">`
-For help migrating an existing repo (fork or clone prior to 10/18/15), please check out this [guide.](https://docs.google.com/document/d/1e8LXahedBlCW1_dp_FyvQ3ugUAwUBJDuJCoKf3tgNVs/pub?embedded=true)
+In order for the Sunshine app to function properly an API key for openweathermap.org must be included with the build. <br>
+Include the API key for the build by adding the following line to [USER_HOME]/.gradle/gradle.properties
+`MyOpenWeatherMapApiKey="<UNIQUE_API_KEY">` <br>
 
 ## Android Version Targeting
 
@@ -51,6 +50,6 @@ Devices Running Kitkat (API 19) or above are supported
 
 ##Attribution
 
-The weather data is provided by the [Open Weather Map API](http://openweathermap.org/api)
+The weather data is provided by the [Open Weather Map API](http://openweathermap.org/api) <br>
 The weather app code was provided by [Udacity](https://github.com/udacity/
 Advanced_Android_Development/tree/7.05_Pretty_Wallpaper_Time).  
