@@ -2,10 +2,10 @@
 
 This is an Android app that shows current weather and predicts climatic conditions for a particular pin code or area which could be changed in the settings. The weather data is provided by Openweathermap API. It includes a detailed view of Windspeed, direction , Pressure and humidity. This includes a watch face that is automatically installed in the android wear when the user installs Sunshine App on the phone.
 
-<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/circle.png"/>
-<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/circle_ambient.png.png"/>
-<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/square.png"/>
-<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/square_ambient.png.png"/>
+<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/circle.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/circle_ambient.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/square.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/square_ambient.png" height=480 width =270/>
 
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/Screenshots/Screenshot_20161030-194148_framed.png" height=480 width =270/>
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/Screenshots/Screenshot_20161030-194153_framed.png" height=480 width =270/>
