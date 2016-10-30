@@ -13,6 +13,9 @@ This is an Android app that shows current weather and predicts climatic conditio
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/Screenshots/Screenshot_20161030-194215_framed.png" height=480 width =270/>
 <img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/Screenshots/Screenshot_20161030-194220_framed.png" height=480 width =270/>
 
+<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/moto.jpeg"/>
+<img src="https://raw.githubusercontent.com/aashishvanand/WearWeather/master/images/moto_ambient.jpeg"/>
+
 
 ##What is it?
 
